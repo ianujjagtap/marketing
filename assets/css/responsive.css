@@ -246,6 +246,9 @@
 		font-size: 3rem;
 		line-height: 3.3rem !important;
 	}
+	.footer-links {
+		font-size: 10px;
+	}
 }
 @media (max-width: 993px) {
 	header:before {
